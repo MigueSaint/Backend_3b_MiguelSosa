@@ -15,4 +15,10 @@ https://github.com/MigueSaint/Backend_3b_MiguelSosa.git
 ````
 git remote -v
 ````
+````
+git add .
+git commit -m "Nombre_Referencia"
+git push -f origin master
+````
+
 
