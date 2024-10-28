@@ -11,4 +11,8 @@ git init
 git remote add origin
 https://github.com/MigueSaint/Backend_3b_MiguelSosa.git
 ````
+# Validar referencia
+````
+git remote -v
+````
 
